@@ -1,0 +1,26 @@
+{
+  "name": "lumberjack",
+  "version": "0.1.0",
+  "description": "NSLogger CocoaLumberjack Connector Plugin",
+  "cordova": {
+    "id": "com.bamboocando.cordova.nslogger-cocoalumberjack-connector-plugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahbini/lumberjack.git"
+  },
+  "keywords": [
+    "loggin",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Jim Hinds",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/jahbini/lumberjack/issues"
+  },
+  "homepage": "https://github.com/jahbini/lumberjack#readme"
+}
