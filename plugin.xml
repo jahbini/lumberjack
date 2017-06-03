@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="org.nypr.cordova.nslogger-cocoalumberjack-connector-plugin"
+    id="com.bamboocando.cordova.nslogger-cocoalumberjack-connector-plugin"
     version="0.1.0">
     <name>Device</name>
     <description>NSLogger CocoaLumberjack Connector Plugin</description>
