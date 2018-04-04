@@ -1,5 +1,7 @@
 # CocoaLumberjack NSLogger Connector PhoneGap/Cordova Plugin
 
+## This is lumberjack with an added config file to link to iOS app build process
+
 ### Platform Support
 
 This plugin supports PhoneGap/Cordova apps running on iOS.
